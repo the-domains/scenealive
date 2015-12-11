@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5168071
+color:
+  saturation: 0.8082438
+  brandStrength: 0
+  lightness: 0.5340502
+  brandColors:
+    - '#010404'
+    - '#2F5DAB'
+    - '#6590C7'
+    - '#A2CFF2'
+    - '#FFFBD8'
+  rhythmicContrast: 0.9048968
+name: SceneAlive
